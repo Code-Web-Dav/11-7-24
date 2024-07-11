@@ -1,0 +1,80 @@
+*{
+    background-color: rgb(95, 209, 95);
+}
+#TopLayer{
+    border: 1px solid;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    height: 300px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+#Disp{
+    background-color: whitesmoke;
+    margin-left: 20px;
+}
+#inp{
+    background-color: whitesmoke;
+}
+h1{
+    background-color: whitesmoke;
+}
+p{
+    background-color: whitesmoke;
+    margin-top: 0px;
+    width: 290px;
+    font-style: italic;
+ 
+    color: rgb(115, 109, 109);
+}
+input{
+    background-color: white;
+    margin-left: 20px;
+    border-color: gainsboro;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+#ad{
+    border: none;
+    border-radius: 19px;
+    background-color: rgb(32, 171, 226);
+    padding: 10px;
+    width: 100px;
+}
+button{background-color: white;
+    margin-left: 20px;
+}
+ol,li{
+    background-color: whitesmoke;
+    margin-left: 5px;
+}
+#green{
+    background-color: rgb(17, 195, 17);
+    border: none;
+    padding: 10px;
+    border-radius: 19px;
+    color: whitesmoke;
+    margin-left: 10px;
+}
+#red{
+    background-color: rgb(195, 17, 17);
+    border: none;
+    padding: 10px;
+    border-radius: 19px;
+    color: whitesmoke;
+}
+#blue{
+    background-color: rgb(32, 171, 226);
+    border: none;
+    padding: 10px;
+    border-radius: 19px;
+    color: whitesmoke;
+}
+del{
+    border: 1px solid;
+}
